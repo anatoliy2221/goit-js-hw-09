@@ -5,18 +5,15 @@
     align-items: flex-start;
     gap: 16px;
     border-radius: 8px;
-    background-color: #FFF;
+    background-color: #fff;
     width: 400px;
 }
-
-
-
 
 label {
     display: flex;
     flex-direction: column;
     gap: 8px;
-    color: #2E2F42;
+    color: #2e2f42;
     font-family: Montserrat;
     font-size: 16px;
     font-style: normal;
@@ -52,9 +49,9 @@ button {
     align-items: center;
     gap: 10px;
     border-radius: 8px;
-    background-color: #4E75FF;
+    background-color: #4e75ff;
     border: transparent;
-    color: #FFF;
+    color: #fff;
     font-family: Montserrat;
     font-size: 16px;
     font-style: normal;
@@ -64,5 +61,5 @@ button {
 }
 
 button:hover {
-    background-color: #6C8CFF;
+    background-color: #6c8cff;
 }
